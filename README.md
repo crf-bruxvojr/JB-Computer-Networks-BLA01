@@ -9,4 +9,11 @@ Network Edge and Network Core - the ingredients of and differences between the n
 Communication and Network Protocols - A variety of protocols that work together to send people to places
 Understanding Network Performance - various causes and symptoms of network delay
 Network Security - Methods of security and attacks
-
+https://youtu.be/1_GoiiRocZ4
+Takeaways:
+1: The internet relies on a variety of protocols to function
+2: Packets are highly important and the center of many protocols
+3: VPNs have become far more important post-covid
+4: Protocols often work together to achieve even seemingly simple tasks
+5: The size of the Network edge is only growing.
+Source: Computer Networking: A Top-Down Approach 9th edition
